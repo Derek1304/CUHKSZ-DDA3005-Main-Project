@@ -1,4 +1,4 @@
-# CUHKSZ-DDA3005-Project
+# CUHKSZ-DDA3005-Main Project
 File:
 3 Algorithms + Report
 
