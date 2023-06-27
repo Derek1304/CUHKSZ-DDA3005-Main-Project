@@ -1,4 +1,11 @@
 # CUHKSZ-DDA3005-Main Project
+Author:
+
+Yao Yuan 119010396
+Xiao Zhijia 120090046
+Meng Shengnan 120090505
+Wang Yue 120090778
+
 File:
 3 Algorithms + Report
 
