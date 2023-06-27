@@ -12,6 +12,7 @@ causal feature learning algorithms and developing new causal models to adapt cau
 to more applications with confounders and high-dimensional data.
 
 References:
+
 [1] Chalupka, Krzysztof, Frederick Eberhardt, and Pietro Perona. ”Causal feature learning: an
 overview.” Behaviormetrika 44 (2017): 137-164.
 
