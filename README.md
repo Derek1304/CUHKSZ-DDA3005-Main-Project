@@ -1,10 +1,10 @@
 # CUHKSZ-DDA4210-Main Project
 Author:
 
-Yao Yuan
-Xiao Zhijia 
-Meng Shengnan
-Wang Yue
+Yao Yuan, 
+Xiao Zhijia,  
+Meng Shengnan, 
+Wang Yue, 
 
 File:
 3 Algorithms + Report
